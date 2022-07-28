@@ -53,10 +53,10 @@ def login():
     for h in range(3):
         
         # Set your username here
-        user = "s.fathi995@gmail.com"
+        user = "########"
         
         # Set your password here
-        password = "Sahandsoheilsahandsoheil74687468"
+        password = "############"
         
         # Set your account Link here
         link = "https://ais.usvisa-info.com/en-ae/niv/schedule/XXXXXXX/appointment"
